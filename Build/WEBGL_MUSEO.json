@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Museo VR",
+"productVersion": "0.1",
+"dataUrl": "WEBGL_MUSEO.data.unityweb",
+"wasmCodeUrl": "WEBGL_MUSEO.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL_MUSEO.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
